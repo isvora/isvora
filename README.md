@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @isvora
-- 👀 I’m interested in Java/Spring, Web crawling
+- 👀 I’m interested in Java/Spring/Web Crawling/Stock market
 - 💞️ I’m looking to collaborate on any interesting projects. Hit me up with your idea!
 - 📫 How to reach me: Discord Drix#9974
 
